@@ -19,7 +19,9 @@
 
 ## 项目结构
 
-本项目分为Server端和Web端，两端分别位于两个独立的仓库进行开发。
+本项目采用微服务架构，分为服务注册中心，Server端服务和Web端，分别位于两个独立的仓库进行开发。
+
+服务注册中心使用Spring Cloud开发，项目地址为：https://github.com/sjtusoftwareinnovation/sip-registration
 
 Server端使用java开发，项目地址为: https://github.com/sjtusoftwareinnovation/SIP_Server
 
