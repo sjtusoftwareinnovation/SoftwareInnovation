@@ -1,3 +1,6 @@
 [submodule "SIP_Web"]
 	path = SIP_Web
 	url = git@github.com:sjtusoftwareinnovation/SIP_Web.git
+[submodule "SIP_Server"]
+	path = SIP_Server
+	url = git@github.com:sjtusoftwareinnovation/SIP_Server.git
